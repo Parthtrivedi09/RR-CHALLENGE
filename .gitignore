@@ -1,0 +1,14 @@
+# Raw and processed data (ball_by_ball.csv is ~39 MB)
+data/raw/*.csv
+data/processed/*.csv
+
+# Python environments & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
